@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trick App</string>
+    <string name="main_menu">Trick Tracker</string>
+    <string name="menu_option_add_trick">Add Trick</string>
+    <string name="menu_option_my_stats">My Stats</string>
+    <string name="name">Name</string>
+    <string name="landing">Landing</string>
+    <string name="new_trick">New Trick</string>
+    <string name="did_not_land">Did Not Land</string>
+    <string name="sketch">Sketch</string>
+    <string name="clean">Clean</string>
+    <string name="notes">Notes</string>
+    <string name="trick_tracker">Trick Tracker</string>
+    <string name="my_stats">My Stats</string>
+</resources>
